@@ -2,7 +2,9 @@ title: Festina Lente.
 description: 
 author: Suin Kim
 avatar: /logo.jpg
-email: starcat370@gmail.com
+email: starcat37@korea.ac.kr
+location: Seoul, South Korea
+subscribe: false
 
 plugins:
   - jekyll-seo-tag
@@ -17,8 +19,8 @@ paginate: 10
 # google_analytics: 
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
-# disqus:
+ 
+disqus: "starcat37-github-io"
 
 # Jekyll
 # ======
@@ -38,5 +40,4 @@ social:
   links:
     - https://twitter.com/Roo_star_
     - https://github.com/starcat37
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: kr
+lang: en

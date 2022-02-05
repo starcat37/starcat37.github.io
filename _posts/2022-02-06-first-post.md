@@ -1,0 +1,19 @@
+---
+layout: post
+title: "First Post"
+categories: Etc
+comments: true
+---
+
+## First Post
+
+Hello! My name is Suin Kim.
+I am interested in Linguistics, Computer Science and Astonomy.
+
+첫 포스트입니다! 잘 부탁드립니다:)
+
+- [x] 블로그 시작
+- [ ] 커스터마이징 (폰트)
+- [ ] disqus 활성화
+- [ ] 첫 화면 레이아웃 수정
+- [ ] favicon
